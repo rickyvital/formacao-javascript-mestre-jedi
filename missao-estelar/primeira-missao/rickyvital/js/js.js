@@ -1,7 +1,7 @@
 //declaração de variáveis
-var missao = "Missão Estelar JS em execução!";
+var missao = "Missão Estelar JS em execução";
 
-//Declaração de funções
+//declaração de função
 function eventoOnload(){
     console.log("Evento onload disparado");
 }
@@ -9,3 +9,4 @@ function eventoOnload(){
 function eventoOnclick(){
     console.log("Missão Estelar JS realizada com sucesso!!!");
 }
+

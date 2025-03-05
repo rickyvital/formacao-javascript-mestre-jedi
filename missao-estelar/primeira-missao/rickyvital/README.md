@@ -1,10 +1,3 @@
-- JavaScript
-- React
-- Angular
-- Vue
-- C#
-- JAVA
-- PHP
-- Ember
+- JAVASCRIPT
+- HTML
 - CSS
-- HTML5
